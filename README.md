@@ -1,4 +1,4 @@
-# ESP32-C3 Interactive Game Device
+# QUAD·IO - ESP32-C3 Interactive Game Device
 
 A compact experimental hardware concept based on an ESP32-C3, featuring four Cherry MX mechanical switches and LEDs as a flexible input–output system for small interactive games and logic experiments.
 
