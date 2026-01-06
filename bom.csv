@@ -1,5 +1,5 @@
 name,description,link,unit price €,amount,total €,all €
-30 awg wires,"wires to connect everything, 6 different colors",https://amzn.eu/d/4U3wOdN,"17,99",1,"17,99","179,78"
+30 awg wires,"wires to connect everything, 6 different colors",https://amzn.eu/d/4U3wOdN,"17,99",1,"17,99","116,79"
 128x32 OLED,"I²C OLED Module, 0.91 inch, 5pcs",https://amzn.eu/d/fAhBVzO,"2,878",5,"14,39",
 screws M2x8,"pan head screw, 50pcs, black",https://amzn.eu/d/cMmEMtk,"0,09",50,"4,5",
 screw nuts,"M2 screw nuts, 120pcs",https://amzn.eu/d/1IQXunQ,"0,03316666667",120,"3,98",
@@ -7,7 +7,6 @@ esp32 c3,"microcontroller, wifi + bluetooth, 15gpio pins, 4pcs",https://amzn.eu/
 ws2812b led,"10x10 led matrix, individually addressable",https://amzn.eu/d/fx8Mg6R,"0,1299",100,"12,99",
 switches,"gateron transparent milky switch, 108pcs",https://amzn.eu/d/e76nH8s,"0,1202777778",108,"12,99",
 lithium battery,"AAA lithium battery, 3.7V, ICR10440, 4pcs",https://amzn.eu/d/hpDjrYq,"3,9975",4,"15,99",
-soldering iron,"Fanttik T1, 250-400°C",https://amzn.eu/d/fe6hE2u,"62,99",1,"62,99",
 boost converter,"gtiwung mini boost module converter, 10pcs",https://amzn.eu/d/8jTwFFJ,"0,599",10,"5,99",
 battery holder,"KUOQIY AAA battery holder, 12pcs",https://amzn.eu/d/0QL5nkR,"0,5825",12,"6,99",
 tp4056,"lithium battery loader, usb-c, dual protection, 6pcs",https://amzn.eu/d/dbin3xM,"1,165",6,"6,99",
